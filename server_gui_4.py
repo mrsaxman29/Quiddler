@@ -1,7 +1,7 @@
 from tkinter import *
 import random, twl2, socket, pickle
 
-server = "192.168.1.151" # SERVER SETTINGS # PIER 192.168.1.213 HOME 192.168.1.151
+server = "xxx.xxx.x.xxx" 
 port = 5555
 listening_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
